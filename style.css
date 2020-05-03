@@ -37,7 +37,7 @@ div h1 {
 
 body {
   margin: 10px;
-  font-family: "Georgia", serif;
+  font-family: "Lucinda", serif;
   line-height: 8px;
   color: red;
 }
@@ -132,13 +132,13 @@ h4 {
 }
 
 #cardSlots div {
-  border-style: dashed;
+  border-style: solid;
 }
 
 #cardPile div {
   background: #666;
   color: #fff;
-  font-size: 50px;
+  font-size: 40px;
   text-shadow: 0 0 3px #000;
 }
 
