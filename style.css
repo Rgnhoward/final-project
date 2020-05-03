@@ -15,7 +15,7 @@ div h1 {
   width: 50%;
   margin: 20px auto;
   background: dodgerblue;
-  border: solid 10px black;
+  border: inset 10px black;
   padding: 10px;
   border-radius: 10px;
   text-align: center;
@@ -95,7 +95,7 @@ h4 {
   width: 810px;
   height: 120px;
   padding: 20px;
-  border: 2px solid #333;
+  border: 2px inset #333;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
   border-radius: 10px;
